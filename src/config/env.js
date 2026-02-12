@@ -1,0 +1,4 @@
+PORT=5000
+DATABASE_URL=postgresql://task_database_kh80_user:jUZu7aC3Nr7XStiVDMQed9aS9B8ZOvU0@dpg-d66viv6mcj7s73drkr2g-a/task_database_kh80
+JWT_SECRET=qkhfqeioyhf091376
+JWT_REFRESH_SECRET=your_refresh_secret
