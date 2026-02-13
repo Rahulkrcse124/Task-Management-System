@@ -1,4 +1,4 @@
-import { pool } from "../../config/db.js";
+import pool from "../../config/db.js";
 import { generateOtp } from "../../utils/generateOtp.js";
 import { hashValue } from "../../utils/hash.js";
 
