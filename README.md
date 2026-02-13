@@ -28,14 +28,11 @@ The system demonstrates:
 # 🌍 Hosted Backend URL
 
 deployed URL
-https://task-management-api.onrender.com
 
 
 ---
 
 # 📘 API Documentation (Swagger)
-
-https://your-deployed-url/docs
 
 
 Swagger provides interactive API testing.
@@ -54,6 +51,9 @@ Swagger provides interactive API testing.
 - Swagger (API Docs)
 
 ---
+
+
+
 
 # 📁 Project Structure
 
@@ -104,6 +104,9 @@ task-management-backend/
 ├── package.json
 ├── README.md
 └── Dockerfile
+
+
+
 
 
 
